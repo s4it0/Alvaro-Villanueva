@@ -1,2 +1,0 @@
-# Trabajo-PHP
-trabajo practico
